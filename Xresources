@@ -1,0 +1,30 @@
+XTerm*faceName:	SourceCodePro:style=Regular:size=10
+Xterm*saveLines: 1000
+
+*background: rgb:25/25/25
+*foreground: rgb:FD/FD/FD
+
+!black
+*color0:	rgb:25/25/25
+*color8:	rgb:45/45/45
+!red
+*color1:	rgb:EF/67/69
+*color9:	rgb:FC/7C/A5
+!green
+*color2:	rgb:A6/E2/2E
+*color10: 	rgb:B6/E3/54
+!yellow
+*color3:	rgb:FD/97/1F
+*color11:	rgb:FD/97/1F
+!blue
+*color4:	rgb:64/95/ED
+*color12:	rgb:87/CE/EB
+!magenta
+*color5:	rgb:DE/B8/87
+*color13:	rgb:99/66/00
+!cyan
+*color6:	rgb:B0/C4/DE
+*color14:	rgb:87/CE/EB
+!white
+*color7:	rgb:DB/DC/DC
+*color15:	rgb:FD/FD/FD

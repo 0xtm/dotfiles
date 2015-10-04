@@ -1,2 +1,2 @@
 # dotfiles
-For storing dotfiles I like.
+For storing dotfiles I like. or random config files.
